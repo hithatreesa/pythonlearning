@@ -1,0 +1,9 @@
+git clone - to clone repository from github
+git status-to see the current status of git
+git branch- to list the branches
+git checkout branchname =to switch branch
+git checkout -b-to create the branch and switch
+git branch 'branchname'-to create a new branch
+git  add . -to track the files also we can select each file seperately
+git commit -m " " -to commit with a message
+git push -to push to the crrent branch
