@@ -7,4 +7,4 @@ git branch 'branchname'-to create a new branch
 git  add . -to track the files also we can select each file seperately
 git commit -m " " -to commit with a message
 git push -to push to the crrent branch
-git pull-
+git pull- merge file into current branch
