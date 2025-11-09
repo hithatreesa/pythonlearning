@@ -1,0 +1,17 @@
+cd - change directory
+mkdir-make a new directory
+cp  -copy the files or directories
+rm- remove files or directories
+mv- move files or directories
+ls-list files or directories
+ll- list files or directories
+pwd-print path of the files or directories
+touch-create a new empty file
+nano- text editor
+chmod-change file permissions
+chown-change file ownership
+history- print command history
+sudo-run command with superuser privilleges
+cat- display contents of the file
+wc-to count the number of words
+php
